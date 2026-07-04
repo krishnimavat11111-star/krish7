@@ -1,0 +1,30 @@
+Build a single-page portfolio/info website for a freelance web developer named Krish Nimavat, who builds simple, clean, animated websites. I have no past client projects yet, so instead of a portfolio grid, position that as "new and fully focused on every project" rather than faking experience.
+Design direction:
+
+Light color theme: soft blue-white background (#F7F9FC), white cards, dark navy text (#1B2430), violet accent (#6C5CE7), teal accent (#00B39C), amber used sparingly (#FFD166)
+Fonts: Space Grotesk for headings, Inter for body text, JetBrains Mono for small labels/tags
+Animated hero with a typing/looping headline effect and a blinking cursor
+Subtle floating gradient blobs in the background for ambient motion
+Scroll-reveal animations as sections come into view
+Hover effects on cards (lift + shadow) and buttons
+Fully responsive for mobile
+
+Sections:
+
+Sticky header with logo "KN." and nav links (About, Services, Why me, Contact)
+Hero: eyebrow tag "available for new projects," animated headline cycling through phrases like "I build websites" / "that don't feel like templates" / "light, animated, and fast," a short intro paragraph, and two buttons ("Start a project" linking to contact, "See what I build" linking to services)
+About: honest copy about being new but fully dedicated to each project, no middlemen, direct communication, fair pricing while building a name
+Services (4 cards): Simple & clean websites, Animated websites, Business landing pages, Portfolio websites — each with a short description
+Why me (4 items): fresh perspective, direct contact with the developer, fast turnaround, fair pricing
+Contact section with a card containing pill-style buttons linking to:
+
+Phone: +91 93276 94677
+Email: contactwithus47@gmail.com
+Instagram: https://www.instagram.com/krish_nimavat_47
+X: https://x.com/KrishNimavt47
+LinkedIn: https://www.linkedin.com/in/krish-nimavat-08a80541b
+
+
+Simple footer with name and copyright
+
+Use plain HTML, CSS, and JavaScript (no frameworks needed). Keep it a single-page site, fast-loading, and make sure all animations are smooth but not overdone.
